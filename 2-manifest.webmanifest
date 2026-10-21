@@ -1,0 +1,32 @@
+{
+  "name": "Ali Hardware Khata",
+  "short_name": "AH Khata",
+  "description": "Ali Hardware & Electricals ka udhaar-jama khata",
+  "start_url": "/ali-hardware-khata/",
+  "scope": "/ali-hardware-khata/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14100b",
+  "theme_color": "#14100b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/ali-hardware-khata/"
+}
